@@ -1,0 +1,97 @@
+html{
+    background-image: url(To\ do\ List.png);
+    background-size: cover;
+}
+body{
+    margin: 20px;
+    border: 8px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    background-color: rgba(43, 182, 73, 0.486);
+}
+ #cbç{
+    
+    text-align: center;
+ }
+ 
+
+h1{
+    color: aliceblue;
+    font-family: times;
+    font-size: 300%;
+    text-align: center;
+    padding: 15px;
+    margin: 0px;
+
+
+}
+.Listagem{
+    padding: 30px 40px;
+    color: white;
+    text-align: center;
+}
+
+#texto{
+    width: 75%;
+    margin-right: 0;
+    padding: 10px;
+    border: none;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+     
+}
+li{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 0px;
+   
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    transition: 0.2s;
+    user-select: none;
+
+
+}
+
+#botão{
+    border-color:  rgba(43, 182, 73, 0.486);; ;
+    padding: 10px;
+    margin-left:0;
+    background: rgba(43, 182, 73, 0.486);;;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#Excluir{
+    border-color:  rgba(43, 182, 73, 0.486);; ;
+    padding: 10px;
+    margin-left:0;
+    background: rgba(43, 182, 73, 0.486);;;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    display: inline-block;
+    line-height: 1;
+
+}
+
+a{
+    font-style: bold;
+    font-size: x-large;
+    font-family: Times;
+    color:  white ;
+    text-align: center;
+}
+
+
